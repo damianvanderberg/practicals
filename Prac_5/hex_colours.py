@@ -1,4 +1,6 @@
 
+#hex colour code identifier
+
 
 hex_colour_dict = {"AliceBlue": "#f0f8ff", "aquamarine4": "#458b74", "black": "#000000", "BlanchedAlmond": "#ffebcd",
                    "BlueViolet": "#8a2be2", "CadetBlue": "#5f9ea0", "chocolate": "	#d2691e", "CornflowerBlue": "#6495ed",
